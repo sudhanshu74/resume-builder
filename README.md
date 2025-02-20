@@ -15,4 +15,4 @@ React Resume Builder is a modern and user-friendly application built using React
 
 We welcome contributions from the community to help improve React Resume Builder. To contribute:
 
-- Check out the [Contributing Guidelines](CONTRIBUTING.md) for detailed information on how to get involved.
+- Check out the [Contributing Guidelines](CONTRIBUTING.md) for all detailed information on how to get involved.
